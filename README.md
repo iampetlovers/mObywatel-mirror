@@ -6,7 +6,7 @@ Downloaded and legally shared under the MIT license granted by the Central Infor
 The original source code was made publicly available by COI. This mirror was created to ensure better accessibility for the developer community.
 *Few files may be missing!*
 
-[!IMPORTANT] NO part of this repository belongs to me.
+NO part of this repository belongs to me.
 
 ```
 Copyright (c) 2025 Centralny Ośrodek Informatyki
